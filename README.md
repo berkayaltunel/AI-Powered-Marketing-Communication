@@ -61,7 +61,7 @@ This project was developed as part of the **AI Powered Integrated Marketing Comm
 ---
 
 ## 📂 Repository Contents  
-- [`PROJECT_INSTRUCTIONS.pdf`](./PROJECT_INSTRUCTIONS.pdf) → Full project brief & requirements.  
+- [`PROJECT_INSTRUCTIONS.pdf`](./PROJECT_INSTRUCTIONS.md) → Full project brief & requirements.  
 - [`Golden_Coco_Reverie.pdf`](./Golden_Coco_Reverie.pdf) → Final presentation with product & marketing campaign.  
 - `README.md` → (this file) Project overview and documentation.  
 
