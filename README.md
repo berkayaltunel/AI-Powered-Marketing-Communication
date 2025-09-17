@@ -67,14 +67,6 @@ This project was developed as part of the **AI Powered Integrated Marketing Comm
 
 ---
 
-## 👥 Team  
-- Aleyna Dede  
-- Beşir Efe Saraçoğlu  
-- Celal Berkay Altunel  
-- Ece Sude Yılmaz  
-
----
-
 ## 🚀 How to Use This Repo  
 This repository is intended as a **portfolio project** to showcase:  
 - Strategic consulting skills (market analysis, case study evaluation).  
@@ -83,7 +75,4 @@ This repository is intended as a **portfolio project** to showcase:
 
 Feel free to explore the attached reports & presentations, and connect with us for feedback or collaboration!  
 
----
 
-## 📢 Acknowledgements  
-Special thanks to our instructors and teammates for their collaboration, creativity, and hard work in bringing *Golden Coco Reverie* to life.  
