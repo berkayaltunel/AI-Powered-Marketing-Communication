@@ -45,6 +45,14 @@ This project was developed as part of the **AI Powered Integrated Marketing Comm
 
 ---
 
+
+
+## 🎥 Project Demo
+[![Watch the video](./images/video-thumbnail.png)](https://drive.google.com/file/d/1XtwOWUwxi2FNyk0uhCKI6izdxCr2g36x/view?usp=sharing)
+
+
+---
+
 ## 📊 Strategic Insights  
 - **Why Vietnam?**  
   - Proximity & cultural similarities with Myanmar.  
