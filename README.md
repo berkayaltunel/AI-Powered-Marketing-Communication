@@ -48,8 +48,8 @@ This project was developed as part of the **AI Powered Integrated Marketing Comm
 
 
 ## 🎥 Project Demo
-[![Watch the video](./images/video-thumbnail.png)](https://drive.google.com/file/d/1XtwOWUwxi2FNyk0uhCKI6izdxCr2g36x/view?usp=sharing)
-
+[![Watch the video](./images/video-thumbnail.png)](https://drive.google.com/file/d/1XtwOWUwxi2FNyk0uhCKI6izdxCr2g36x/view?usp=sharing)  
+👉 *Click the image to watch the full demo video on Google Drive*
 
 ---
 
